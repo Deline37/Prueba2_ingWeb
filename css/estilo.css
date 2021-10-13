@@ -2,6 +2,52 @@ ul {
   list-style: none;
 }
 
+#divForm {
+  margin: 3%;
+}
+
+p {
+  display: inline-block;
+  font-size: 25px;
+}
+
+label {
+  font-size: 25px;
+  display: inline-block;
+}
+
+button {
+  border: none;
+  background-color: white;
+}
+
+img {
+  width: 120px;
+  height: 120px;
+}
+
+input {
+  border: none;
+  background-color: white;
+  font-size: 25px;
+  color: black;
+  display: inline;
+  width: auto;
+}
+
+#curso {
+  width: 175px;
+}
+
+select {
+  border: none;
+  background-color: white;
+}
+
+.asignaturas {
+  height: 5px;
+}
+
 input[type=number]::-webkit-inner-spin-button,
 input[type=number]::-webkit-outer-spin-button {
   -webkit-appearance: none;
@@ -11,5 +57,4 @@ input[type=number]::-webkit-outer-spin-button {
 input[type=number] {
   -moz-appearance: textfield;
 }
-
 /*# sourceMappingURL=estilo.css.map */
